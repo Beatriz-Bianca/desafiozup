@@ -1,0 +1,38 @@
+body {
+    width: 100%;
+    min-height: 100vh;
+    display: table;
+    background-color: #e91e63a1;
+    font-family: cursive;
+    color: white;
+    font-size: x-large;
+}
+
+main {
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    position: relative; 
+}
+
+main > section img { 
+    border: 1px solid black;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border-radius: 35px;
+    background-color: rgb(235, 77, 161);
+}
+
+section {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 10px;
+    margin: auto;flex-direction: column;
+    background-color: black;
+    float: left;
+    justify-content: center;
+}
+
