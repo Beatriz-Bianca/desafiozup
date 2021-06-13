@@ -1,7 +1,7 @@
-const imagem1 = document.querySelector('#teste1');
-const imagem2 = document.querySelector('#teste2');
-const imagem3 = document.querySelector('#teste3');
-const imagem4 = document.querySelector('#teste4');
+const imagem1 = document.querySelector('#imagem1');
+const imagem2 = document.querySelector('#imagem2');
+const imagem3 = document.querySelector('#imagem3');
+const imagem4 = document.querySelector('#imagem4');
 
 const nomeimagem1 = document.querySelector('#nome-imagem-1');
 const nomeimagem2 = document.querySelector('#nome-imagem-2');
